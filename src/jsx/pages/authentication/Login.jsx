@@ -48,9 +48,9 @@ function Login (props) {
 						<div className="card mb-0 h-auto">
 							<div className="card-body">
 								<div className="text-center mb-2">
-									<Link to={"/dashboard"}>
-										<img src={logoFull} alt="logo" />                                                                              
-									</Link>
+									
+										<img src={logoFull} alt="logo" width={160} height={110} />                                                                              
+									
 								</div>
 									
 								<h4 className="text-center mb-4">Sign in your account</h4>														

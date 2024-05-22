@@ -5,6 +5,13 @@ export const MenuList = [
         classsChange: "menu-title",
         extraclass:"first"
     },
+        //Dashboard
+        {
+            title: 'Admission',	
+            classsChange: 'mm-collapse',		
+            iconStyle: <i className="lab la-wpforms"/>,
+            to: 'admission'
+        },
     //Dashboard
     {
         title: 'Dashboard',	

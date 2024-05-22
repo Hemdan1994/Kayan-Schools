@@ -23167,3 +23167,14 @@ span#counter {
       color: #fff; }
 
 /*# sourceMappingURL=style.css.map */
+
+/* Custom */
+.admission-list{
+  li{
+    /* color: #0D193F; */
+    font-size: 15px;
+    font-weight: 400;
+    margin: 3px 0;
+    list-style:disc;
+  }
+}
